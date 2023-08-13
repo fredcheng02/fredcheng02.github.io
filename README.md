@@ -10,4 +10,8 @@ Primary Investigator of the Polymath Jr. Program on the Frog Model on Trees
 
 # Work Experience
 
-Data Scientist Intern at 4 Paradigm
+Data Science Intern at 4Paradigm
+
+# Skills
+
+R, Python, SageMath, Wolfram Mathematica, SQL, C, Java
