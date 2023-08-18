@@ -1,5 +1,9 @@
-title: Cheng, Feng
+# title: Cheng, Feng
 # logo: 
-email: "fecheng@berkeley.edu"
-description: Undergraduate Student in Mathematics and Statistics at UC Berkeley
+# description: Undergraduate Student in Mathematics and Statistics at UC Berkeley
+author: Cheng, Feng
+  bio: Senior at University of California, Berkeley
+  location: "San Francisco Bay Area, USA / Shanghai, China"
+  # avatar: 
+  github: "fredcheng02"
 theme: jekyll-theme-minimal
