@@ -6,7 +6,7 @@ layout: homepage
 - [Math Textbook Suggestions](writings/mathtexts.md)
 - [Music Musings](writings/music/)
 
-## Short Biography
+## Relevant Links
 
 ## Undergraduate Education
 Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
