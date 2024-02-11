@@ -4,7 +4,7 @@ layout: homepage
 
 ## Random Writings
 - [Math Textbook Suggestions](writings/mathtexts.md)
-- [Music Musings](writings/music)
+- [Music Musings](writings/music/)
 
 ## Short Biography
 
