@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 # Undergraduate Education
 Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
 
