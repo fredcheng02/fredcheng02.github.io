@@ -1,5 +1,6 @@
 # Undergraduate Education
 Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
+
 Mathematics at UC Davis (September 2020 – June 2022)
 
 # Awards and Scholarships
