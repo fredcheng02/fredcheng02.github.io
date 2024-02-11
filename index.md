@@ -4,7 +4,6 @@ layout: homepage
 
 ### Undergraduate Education
 Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
-
 Mathematics at UC Davis (September 2020 – June 2022)
 
 ### Awards and Scholarships
@@ -13,7 +12,6 @@ G. Thomas Sallee Prize (2021)
 
 ### Academic Research
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
-
 - subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
 - guided by Professor Matthew Junge and Professor Si Tang
 - preprint: [arXiv:2309.14443](https://arxiv.org/abs/2309.14443)
