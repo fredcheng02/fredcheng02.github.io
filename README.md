@@ -1,17 +1,17 @@
 # Undergraduate Education
 
-Mathematics and Statistics at UC Berkeley (August 2022 -- May 2024)
+Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
 
-Mathematics at UC Davis (September 2020 -- June 2022)
+Mathematics at UC Davis (September 2020 – June 2022)
 
 # Awards and Scholarships
 
-- Robert Lewis Wasser Memorial Scholarship 2022
-- G. Thomas Sallee Prize 2021
+- Robert Lewis Wasser Memorial Scholarship (2022)
+- G. Thomas Sallee Prize (2021)
 
 # Research Experience
 
-Major Investigator at Polymath Jr. (June 2023 -- September 2023)
+Major Investigator at Polymath Jr. (June 2023 – September 2023)
 
 - subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
 - guided by Professor Matthew Junge and Professor Si Tang
@@ -19,7 +19,7 @@ Major Investigator at Polymath Jr. (June 2023 -- September 2023)
 
 # Work Experience
 
-Data Science Intern at 4Paradigm (June 2023 –- August 2023)
+Data Science Intern at 4Paradigm (June 2023 – August 2023)
 
 # Skills
 
