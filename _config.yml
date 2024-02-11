@@ -1,4 +1,5 @@
-title: Feng Cheng / fredcheng02
+theme: jekyll-theme-minimal
+title: Feng Cheng's Homepage
 # logo: 
 # description: Undergraduate Student in Mathematics and Statistics at UC Berkeley
 author:
@@ -7,4 +8,3 @@ author:
   location: "San Francisco Bay Area, USA / Shanghai, China"
   # avatar: 
   github: "fredcheng02"
-theme: jekyll-theme-minimal
