@@ -1,8 +1,8 @@
 # Education
 
-Double Majoring in Mathematics and Statistics at UC Berkeley (*2022.8 – present*)
+Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
 
-Majored in Mathematics at UC Davis (*2020.9 – 2022.6*)
+Mathematics at UC Davis (September 2020 – June 2022)
 
 # Awards and Scholarships
 
