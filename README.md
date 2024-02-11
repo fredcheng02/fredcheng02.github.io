@@ -9,7 +9,7 @@ Mathematics at UC Davis (September 2020 – June 2022)
 - Robert Lewis Wasser Memorial Scholarship (2022)
 - G. Thomas Sallee Prize (2021)
 
-# Research
+# Academic Research
 
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
 
@@ -17,7 +17,7 @@ Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - guided by Professor Matthew Junge and Professor Si Tang
 - preprint: [arXiv:2309.14443](https://arxiv.org/abs/2309.14443)
 
-# Work
+# Work Experience
 
 Data Science Intern at 4Paradigm (June 2023 – August 2023)
 
