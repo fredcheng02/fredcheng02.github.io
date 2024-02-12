@@ -26,11 +26,13 @@ Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - [music musings](writings/musicmusings.md)
 
 ## Math+Stats Repositories
-- [Projects](https://github.com/fredcheng02/mathprojects)
-- [Notes](https://github.com/fredcheng02/MathStatsNotes)
+- [projects](https://github.com/fredcheng02/mathprojects)
+- [notes](https://github.com/fredcheng02/MathStatsNotes)
 
 ## Relevant Links
+- [LyX](https://www.lyx.org/)
 - [SageMath documentation](https://doc.sagemath.org/html/en/index.html)
 - [Wolfram documentation](https://reference.wolfram.com/language/)
+- [zbMATH](https://zbmath.org/)
 - [Blackwell's](https://blackwells.co.uk/bookshop/home)
 - [prestomusic](https://www.prestomusic.com/)
