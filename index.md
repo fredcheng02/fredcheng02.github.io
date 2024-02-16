@@ -13,7 +13,7 @@ Mathematics at UC Davis (September 2020 – June 2022)
 2021 G. Thomas Sallee Prize
 
 ## Academic Research
-Upcoming
+Upcoming (February 2024 – )
 
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
