@@ -5,9 +5,11 @@ layout: homepage
 Ph.D. in Mathematics at the University of Washington *(September 2024 – present)*
 
 ## Undergraduate Education
-B.A. (Distinction) in Mathematics (with High Honors) and Statistics at the University of California, Berkeley *(August 2022 – May 2024)*
+B.A. (Distinction) in Mathematics (with High Honors) and Statistics
+at the University of California, Berkeley *(August 2022 – May 2024)*
 
-Mathematics at the University of California, Davis *(September 2020 – June 2022)*
+Studied Mathematics
+at the University of California, Davis *(September 2020 – June 2022)*
 
 ## Awards & Scholarships
 2022 Robert Lewis Wasser Memorial Scholarship
