@@ -1,11 +1,13 @@
 ---
 layout: homepage
 ---
+## Graduate Education
+Ph.D. in Mathematics at the University of Washington *(September 2024 – present)*
 
 ## Undergraduate Education
-Mathematics and Statistics at UC Berkeley (August 2022 – May 2024)
+B.A. (Distinction) in Mathematics (with High Honors) and Statistics at the University of California, Berkeley *(August 2022 – May 2024)*
 
-Mathematics at UC Davis (September 2020 – June 2022)
+Mathematics at the University of California, Davis *(September 2020 – June 2022)*
 
 ## Awards & Scholarships
 2022 Robert Lewis Wasser Memorial Scholarship
@@ -13,7 +15,6 @@ Mathematics at UC Davis (September 2020 – June 2022)
 2021 G. Thomas Sallee Prize
 
 ## Academic Research
-Upcoming (February 2024 – )
 
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
