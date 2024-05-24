@@ -6,9 +6,12 @@ Ph.D. in Mathematics at the University of Washington *(September 2024 – presen
 
 ## Undergraduate Education
 B.A. (Distinction) in Mathematics (with High Honors) and Statistics
+
 at the University of California, Berkeley *(August 2022 – May 2024)*
 
+---
 Studied Mathematics
+
 at the University of California, Davis *(September 2020 – June 2022)*
 
 ## Awards & Scholarships
