@@ -18,7 +18,7 @@ Studied Mathematics at the University of California, Davis (September 2020 – J
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
 - guided by Professor Matthew Junge and Professor Si Tang
-- arXiv preprint: [2309.14443](https://arxiv.org/abs/2309.14443)
+- published at the [Electronic Communications in Probability](https://doi.org/10.1214/24-ECP606)
 - GitHub repo: [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
 
 ## Random Writings
