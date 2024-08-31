@@ -13,6 +13,8 @@
 - Walter B. Rudin - *Principles of Mathematical Analysis*
 - Thomas Apostol - *Mathematical Analysis*
 - Luigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - *Introduction to Measure Theory and Integration*
+- Vladimir I. Bogachev - *Measure Theory, Vol. 1 and 2*
+- Bogachev, Smolyanov - *Real and Functional Analysis*
 - Gerald B. Folland - *Real Analysis: Modern Techniques and Their Applications*
 
 ### Algebra
