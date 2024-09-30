@@ -8,18 +8,20 @@ B.A. in Mathematics and Statistics at the University of California, Berkeley (Au
 
 Studied Mathematics at the University of California, Davis (September 2020 – June 2022)
 
-## Awards & Scholarships
-2022 Robert Lewis Wasser Memorial Scholarship
+## Research Interests
 
-2021 G. Thomas Sallee Prize
-
-## Academic Research
+## Academic Research Experience
 
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
 - guided by Professor Matthew Junge and Professor Si Tang
 - published at the [Electronic Communications in Probability](https://doi.org/10.1214/24-ECP606)
 - GitHub repo: [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
+
+## Awards & Scholarships
+2022 Robert Lewis Wasser Memorial Scholarship
+
+2021 G. Thomas Sallee Prize
 
 ## Random Writings
 - [math textbook suggestions](writings/mathtexts.md)
