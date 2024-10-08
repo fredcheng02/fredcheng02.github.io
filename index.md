@@ -24,7 +24,7 @@ Major Investigator at Polymath Jr. (June 2023 – September 2023)
 2021 G. Thomas Sallee Prize
 
 ## Survey Articles (In Progress)
-- Draft of *[From Measure to Probability: A survey of measure-theoretic results for probabilists and statisticians](https://www.overleaf.com/read/tkgmhpqddtwy#affdd1)*
+- Draft of *[From Measure to Probability: A survey of measure-theoretic results by a probabilist](https://www.overleaf.com/read/tkgmhpqddtwy#affdd1)*
 - Draft of *Complete Reference on Linear Algebra: Comments on Linear Algebra Done Right, 4th Edition*
 
 ## Random Writings
