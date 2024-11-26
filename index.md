@@ -4,11 +4,14 @@ layout: homepage
 ## Education
 Ph.D. in Mathematics at the University of Washington (September 2024 – present)
 
-B.A. in Mathematics and Statistics at the University of California, Berkeley (August 2022 – May 2024)
+Dual B.A. degrees with distinction in Mathematics and Statistics at the University of California, Berkeley (August 2022 – May 2024)
 
-Studied Mathematics at the University of California, Davis (September 2020 – June 2022)
+(with High Honors in Mathematics)
+
+Studied at the University of California, Davis (September 2020 – June 2022)
 
 ## Research Interests
+Discrete probability theory with emphasis on statistical physics, high-dimensional probability and statistic, mixing times of Markov chains
 
 ## Academic Research Experience
 
@@ -19,11 +22,13 @@ Major Investigator at Polymath Jr. (June 2023 – September 2023)
 - GitHub repo: [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
 
 ## Awards & Scholarships
-2022 Robert Lewis Wasser Memorial Scholarship
+Lee McFarlan Fellowship Award (2024 – 2026)
 
-2021 G. Thomas Sallee Prize
+Robert Lewis Wasser Memorial Scholarship (2022)
 
-## Articles (In Progress)
+G. Thomas Sallee Prize (2021)
+
+## Unpublished Articles and Extended Writing Projects
 - Draft of *[From Measure to Probability: A survey of measure-theoretic results by a probabilist](https://www.overleaf.com/read/tkgmhpqddtwy#affdd1)*
 - Draft of *Complete Reference on Linear Algebra: Comments on Linear Algebra Done Right, 4th Edition*
 - *[On the Fundamentals of Extremal Graph Theory](https://fredcheng02.github.io/docs/pioneer_paper.pdf)*
