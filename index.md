@@ -10,7 +10,7 @@ Dual B.A. degrees with distinction in Mathematics and Statistics at the Universi
 Studied at the University of California, Davis (September 2020 – June 2022)
 
 ## Research Interests
-Discrete probability theory with emphasis on statistical physics, high-dimensional probability and statistic, mixing times of Markov chains
+Discrete probability theory with emphasis on statistical physics, high-dimensional probability and statistics, mixing times of Markov chains
 
 ## Academic Research Experience
 
