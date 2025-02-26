@@ -9,13 +9,14 @@
 - Sheldon Axler - *Linear Algebra Done Right*
 - Friedberg, Insel, Spence - *Linear Algebra*
 
-### Real Analysis
+### Real and Functional Analysis
 - Walter B. Rudin - *Principles of Mathematical Analysis*
 - Thomas Apostol - *Mathematical Analysis*
 - Luigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - *Introduction to Measure Theory and Integration*
 - Vladimir I. Bogachev - *Measure Theory, Vol. 1 and 2*
 - Bogachev, Smolyanov - *Real and Functional Analysis*
 - Gerald B. Folland - *Real Analysis: Modern Techniques and Their Applications*
+- Haïm Brezis - *Functional Analysis, Sobolev Spaces and Partial Differential Equations*
 
 ### Algebra
 - John B. Fraleigh - *A First Course in Abstract Algebra*
@@ -26,10 +27,12 @@
 - Grimmett & Welsh - *Probability: An Introduction*
 - Levin, Peres, & Wilmer - *Markov Chains and Mixing Times*
 - Roman Vershynin - *High-Dimensional Probability: An Introduction with Applications to Data Science*
+- Jean-François Le Gall – *Measure Theory, Probability, and Stochastic Processes*
 - Rick Durrett - *Probability: Theory and Examples*
 - Patrick Billingsley - *Probability and Measure*
 
 ### Statistics
+- A.W. van der Vaart - *Asymptotic Statistics*
 - Martin Wainwright - *High-dimensional Statistics: A Non-asymptotic Viewpoint*
 
 ### Information Theory
