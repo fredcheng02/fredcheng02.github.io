@@ -32,6 +32,8 @@ G. Thomas Sallee Prize (2021)
 - Draft of "Complete Reference on Linear Algebra: Comments on Linear Algebra Done Right, 4th Edition"
 - "[On the Fundamentals of Extremal Graph Theory](https://fredcheng02.github.io/docs/pioneer_paper.pdf)"
 
+## Teaching Material
+
 ## Random Writings
 - [math textbook suggestions](writings/mathtexts.md)
 - [music musings](writings/musicmusings.md)
