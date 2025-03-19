@@ -27,7 +27,7 @@
 - Grimmett & Welsh - *Probability: An Introduction*
 - Levin, Peres, & Wilmer - *Markov Chains and Mixing Times*
 - Roman Vershynin - *High-Dimensional Probability: An Introduction with Applications to Data Science*
-- Jean-François Le Gall – *Measure Theory, Probability, and Stochastic Processes*
+- Jean-François Le Gall - *Measure Theory, Probability, and Stochastic Processes*
 - Rick Durrett - *Probability: Theory and Examples*
 - Patrick Billingsley - *Probability and Measure*
 - Richard M. Dudley - *Real Analysis and Probability*
