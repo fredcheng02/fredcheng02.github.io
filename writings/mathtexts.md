@@ -30,6 +30,8 @@
 - Jean-François Le Gall – *Measure Theory, Probability, and Stochastic Processes*
 - Rick Durrett - *Probability: Theory and Examples*
 - Patrick Billingsley - *Probability and Measure*
+- Richard M. Dudley - *Real Analysis and Probability*
+- Olav Kallenberg - *Foundations of Modern Probability*
 
 ### Statistics
 - A.W. van der Vaart - *Asymptotic Statistics*
