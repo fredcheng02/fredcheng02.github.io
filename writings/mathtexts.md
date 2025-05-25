@@ -6,13 +6,16 @@
 
 ### Linear Algebra
 - Lay, Lay, & McDonald - *Linear Algebra and Its Applications*
+- Trefethen & Bau - *Numerical Linear Algebra*
 - Sheldon Axler - *Linear Algebra Done Right*
 - Friedberg, Insel, Spence - *Linear Algebra*
 
 ### Real and Functional Analysis
+- Steven Krantz – *Real Analysis and Foundations*
 - Walter B. Rudin - *Principles of Mathematical Analysis*
 - Thomas Apostol - *Mathematical Analysis*
 - Luigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - *Introduction to Measure Theory and Integration*
+- Donald Cohn - *Measure Theory*
 - Vladimir I. Bogachev - *Measure Theory, Vol. 1 and 2*
 - Bogachev, Smolyanov - *Real and Functional Analysis*
 - Gerald B. Folland - *Real Analysis: Modern Techniques and Their Applications*
@@ -26,6 +29,7 @@
 - Anirban DasGupta - *Fundamentals of Probability: A First Course*
 - Grimmett & Welsh - *Probability: An Introduction*
 - Gregory Lawler - *Introduction to Stochastic Processes*
+- James Norris – *Markov Chains*
 
 ### Graduate Probability
 - Jean-François Le Gall - *Measure Theory, Probability, and Stochastic Processes*
@@ -35,7 +39,6 @@
 - Olav Kallenberg - *Foundations of Modern Probability*
 
 ### Markov Chains on countable state space
-- James Norris – *Markov Chains*
 - Levin, Peres, & Wilmer - *Markov Chains and Mixing Times*
 
 ### Markov Chains on general state space
