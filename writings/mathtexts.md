@@ -29,9 +29,10 @@
 - Anirban DasGupta - *Fundamentals of Probability: A First Course*
 - Grimmett & Welsh - *Probability: An Introduction*
 - Gregory Lawler - *Introduction to Stochastic Processes*
-- James Norris – *Markov Chains*
+- James Norris - *Markov Chains*
 
 ### Graduate Probability
+- Grimmett & Stirzaker - *Probability and Random Processes*
 - Jean-François Le Gall - *Measure Theory, Probability, and Stochastic Processes*
 - Rick Durrett - *Probability: Theory and Examples*
 - Patrick Billingsley - *Probability and Measure*
