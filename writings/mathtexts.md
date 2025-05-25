@@ -25,7 +25,7 @@
 ### Advanced Undergraduate Probability
 - Anirban DasGupta - *Fundamentals of Probability: A First Course*
 - Grimmett & Welsh - *Probability: An Introduction*
-- Gregory Lawler – *Introduction to Stochastic Processes*
+- Gregory Lawler - *Introduction to Stochastic Processes*
 
 ### Graduate Probability
 - Jean-François Le Gall - *Measure Theory, Probability, and Stochastic Processes*
@@ -39,21 +39,21 @@
 - Levin, Peres, & Wilmer - *Markov Chains and Mixing Times*
 
 ### Markov Chains on general state space
-- Bakry, Gentil, & Ledoux – *Analysis and Geometry of Markov Diffusion Operators*
+- Bakry, Gentil, & Ledoux - *Analysis and Geometry of Markov Diffusion Operators*
 
 ### Brownian Motion and Stochastic Analysis
 - Jean-François Le Gall - Brownian Motion, Martingales, and Stochastic Calculus
-- Mörters & Peres – *Brownian Motion*
-- Revuz & Yor – *Continuous Martingales and Brownian Motion*
-- Karatzas & Shreve – *Brownian Motion and Stochastic Calculus*
+- Mörters & Peres - *Brownian Motion*
+- Revuz & Yor - *Continuous Martingales and Brownian Motion*
+- Karatzas & Shreve - *Brownian Motion and Stochastic Calculus*
 
 ### Ergodic Theory
 - Patrick Billingsley - *Ergodic Theory and Information*
-- Einsiedler & Ward – *Ergodic Theory, with a view towards Number Theory*
+- Einsiedler & Ward - *Ergodic Theory, with a view towards Number Theory*
 
 ### High-Dimensional Probability
 - Roman Vershynin - *High-Dimensional Probability: An Introduction with Applications to Data Science*
-- Ramon van Handel – Lecture Notes for APC 550: Probability in High Dimension
+- Ramon van Handel - Lecture Notes for APC 550: Probability in High Dimension
 
 ### Statistics
 - A.W. van der Vaart - *Asymptotic Statistics*
