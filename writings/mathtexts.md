@@ -22,9 +22,10 @@
 - John B. Fraleigh - *A First Course in Abstract Algebra*
 - Dummit & Foote - *Abstract Algebra*
 
-### Undergraduate Advanced Probability
+### Advanced Undergraduate Probability
 - Anirban DasGupta - *Fundamentals of Probability: A First Course*
 - Grimmett & Welsh - *Probability: An Introduction*
+- Gregory Lawler – *Introduction to Stochastic Processes*
 
 ### Graduate Probability
 - Jean-François Le Gall - *Measure Theory, Probability, and Stochastic Processes*
@@ -38,13 +39,13 @@
 - Levin, Peres, & Wilmer - *Markov Chains and Mixing Times*
 
 ### Markov Chains on general state space
-- Bakry, Gentil, Ledoux – *Analysis and Geometry of Markov Diffusion Operators*
+- Bakry, Gentil, & Ledoux – *Analysis and Geometry of Markov Diffusion Operators*
 
 ### Brownian Motion and Stochastic Analysis
 - Jean-François Le Gall - Brownian Motion, Martingales, and Stochastic Calculus
-- Mörters & Peres – Brownian Motion
-- Revuz & Yor – Continuous Martingales and Brownian Motion
-- Karatzas & Shreve – Brownian Motion and Stochastic Calculus
+- Mörters & Peres – *Brownian Motion*
+- Revuz & Yor – *Continuous Martingales and Brownian Motion*
+- Karatzas & Shreve – *Brownian Motion and Stochastic Calculus*
 
 ### Ergodic Theory
 - Patrick Billingsley - *Ergodic Theory and Information*
