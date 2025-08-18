@@ -36,6 +36,7 @@ G. Thomas Sallee Prize (2021)
 
 ## Random Writings
 - [math textbook suggestions](writings/mathtexts.md)
+- [probability research texts](writings/prob_research_text.md)
 - [music musings](writings/musicmusings.md)
 
 ## Math+Stats Repositories
