@@ -10,12 +10,12 @@ Dual B.A. degrees with distinction in Mathematics and Statistics at the Universi
 Studied at the University of California, Davis (September 2020 – June 2022)
 
 ## Research Interests
-Discrete probability theory with emphasis on statistical physics, high-dimensional probability and statistics, mixing times of Markov chains
+Discrete probability theory, high-dimensional probability, mixing times of Markov chains
 
 ## Academic Research Experience
 
 Major Investigator at Polymath Jr. (June 2023 – September 2023)
-- subject: the frog model, an interacting particle system of significance in statistical mechanics, on the infinite $d$-ary tree
+- subject: the frog model, an interacting particle system on the infinite $d$-ary tree
 - guided by Professor Matthew Junge and Professor Si Tang
 - published at the [Electronic Communications in Probability](https://doi.org/10.1214/24-ECP606)
 - GitHub repo: [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
