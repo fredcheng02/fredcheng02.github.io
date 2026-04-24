@@ -20,8 +20,9 @@ website:
 format:
   html:
     theme:
-      - yeti
+      - default
       - brand
+      
     css: styles.css
     toc: true
 
