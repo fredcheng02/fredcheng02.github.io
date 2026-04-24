@@ -1,8 +1,0 @@
----
-title: "Blog"
-listing:
-  contents: posts # This points to your folder
-  sort: "date desc"
-  type: default
-  categories: true
----
