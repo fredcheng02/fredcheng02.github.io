@@ -19,11 +19,6 @@ Robert Lewis Wasser Memorial Scholarship (2022)
 
 G. Thomas Sallee Prize (2021)
 
-## Unpublished Articles and Extended Writing Projects
-
--   Draft of [*From Measure to Probability: A survey of measure-theoretic results by a probabilist*](https://fredcheng02.github.io/docs/260320-from-measure-to-prob.pdf)
--   "[On the Fundamentals of Extremal Graph Theory](https://fredcheng02.github.io/docs/pioneer_paper.pdf)"
-
 <!-- ## Teaching Material -->
 
 <!-- Calculus (forthcoming) -->

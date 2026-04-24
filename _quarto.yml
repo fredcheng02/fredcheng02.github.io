@@ -11,10 +11,11 @@ website:
         href: https://github.com/fredcheng02
     left:
       - research.qmd
-      - blog.qmd
-      - links.qmd
+      - FMTP.qmd
       - writings/math_texts.qmd
       - writings/teaching.qmd
+      - blog.qmd
+      - links.qmd
 
 format:
   html:
