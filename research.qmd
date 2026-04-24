@@ -1,0 +1,6 @@
+---
+title: "Research"
+format: html
+---
+
+Improved critical drift estimates for the frog model on trees, in [Electronic Communications in Probability](https://doi.org/10.1214/24-ECP606) (code repository [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model))
