@@ -20,17 +20,3 @@ Lee McFarlan Fellowship Award (2024 – 2026)
 Robert Lewis Wasser Memorial Scholarship (2022)
 
 G. Thomas Sallee Prize (2021)
-
-<!-- ## Teaching Material -->
-
-<!-- Calculus (forthcoming) -->
-
-<!-- ## Random Writings -->
-
-<!-- -   [music musings](writings/musicmusings.qmd) -->
-
-<!-- ## Math+Stats Repositories -->
-
-<!-- -   [projects](https://github.com/fredcheng02/mathprojects) -->
-
-<!-- -   [notes](https://github.com/fredcheng02/MathStatsNotes) -->

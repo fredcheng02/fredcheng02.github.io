@@ -5,6 +5,6 @@ format: html
 
 Improved critical drift estimates for the frog model on trees
 
--   [*Electronic Communications in Probability*](https://doi.org/10.1214/24-ECP606)
+- [*Electronic Communications in Probability*](https://doi.org/10.1214/24-ECP606)
 
--   code at [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
+- code at [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
