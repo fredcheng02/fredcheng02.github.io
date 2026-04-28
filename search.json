@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "No matching items"
+    "text": "First post\n\n\n\nGeneral\n\n\n\nSome plans for the blog\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -14,32 +14,25 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "writings/math_texts.html",
-    "href": "writings/math_texts.html",
-    "title": "Textbooks",
+    "objectID": "posts/first-post.html",
+    "href": "posts/first-post.html",
+    "title": "First post",
     "section": "",
-    "text": "Thomas’ Calculus\nStewart’s Calculus\nLax & Terrell - Calculus and Multivariable Calculus with Applications\n\n\n\n\n\nLay, Lay, & McDonald - Linear Algebra and Its Applications\nTrefethen & Bau - Numerical Linear Algebra\nSheldon Axler - Linear Algebra Done Right\nFriedberg, Insel, Spence - Linear Algebra\n\n\n\n\n\nSteven Krantz – Real Analysis and Foundations\nWalter B. Rudin - Principles of Mathematical Analysis\nThomas Apostol - Mathematical Analysis\nLuigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - Introduction to Measure Theory and Integration\nDonald Cohn - Measure Theory\nVladimir I. Bogachev - Measure Theory, Vol. 1 and 2\nBogachev, Smolyanov - Real and Functional Analysis\nGerald B. Folland - Real Analysis: Modern Techniques and Their Applications\nHaïm Brezis - Functional Analysis, Sobolev Spaces and Partial Differential Equations\n\n\n\n\n\nJohn B. Fraleigh - A First Course in Abstract Algebra\nDummit & Foote - Abstract Algebra\n\n\n\n\n\nAnirban DasGupta - Fundamentals of Probability: A First Course\nGrimmett & Welsh - Probability: An Introduction\nGregory Lawler - Introduction to Stochastic Processes\nJames Norris - Markov Chains\n\n\n\n\n\nGrimmett & Stirzaker - Probability and Random Processes\nJean-François Le Gall - Measure Theory, Probability, and Stochastic Processes\nRick Durrett - Probability: Theory and Examples\nPatrick Billingsley - Probability and Measure\nRichard M. Dudley - Real Analysis and Probability\nOlav Kallenberg - Foundations of Modern Probability\n\n\n\n\n\nLevin, Peres, & Wilmer - Markov Chains and Mixing Times\n\n\n\n\n\nJean-François Le Gall - Brownian Motion, Martingales, and Stochastic Calculus\nMörters & Peres - Brownian Motion\nRevuz & Yor - Continuous Martingales and Brownian Motion\nKaratzas & Shreve - Brownian Motion and Stochastic Calculus\n\n\n\n\n\nPatrick Billingsley - Ergodic Theory and Information\nEinsiedler & Ward - Ergodic Theory, with a view towards Number Theory\n\n\n\n\n\nRoman Vershynin - High-Dimensional Probability: An Introduction with Applications to Data Science\nRamon van Handel - Lecture Notes for APC 550: Probability in High Dimension\n\n\n\n\n\nA.W. van der Vaart - Asymptotic Statistics\nMartin Wainwright - High-dimensional Statistics: A Non-asymptotic Viewpoint\n\n\n\n\n\nCover and Thomas - Elements of Information Theory\nPolyanskiy and Wu - Information Theory: from Coding to Learning\n\n\n\n\n\nThomas Ferguson - A Course in Game Theory\nKarlin & Peres - Game Theory, Alive"
+    "text": "The website is recently created using Quarto. For two years I thought the only manageable way to build a website is through Jekyll.\nIt came across my mind that there is a package Bookdown by Xie Yihui1 that I learned about when I was still an active statistics student using RStudio. Since this could potentially help me convert my FMTP to a webpage version, I started investigating while proctoring students’ exams. Naturally that led me to the newer Quarto, and hence the everything you see here.\nRegarding the future content of this blog, my current guess is that there is most likely going to be math, classical music, philosophy2, and the golden-age Japanese animation. (Music and animation were also the subject of my writing on Chinese platforms.) Clearly this is not comprehensive, as I can see myself talking about audio conversion, music metadata, and \\(\\LaTeX\\)-based typesetting software already.\nStay tuned for future interesting content and I hope this will become a consistent motivation for me as well. The posts will be in English, but Chinese and Japanese will be quoted for technical terms."
   },
   {
-    "objectID": "writings/math_texts.html#math-at-undergrad-and-grad-level",
-    "href": "writings/math_texts.html#math-at-undergrad-and-grad-level",
-    "title": "Textbooks",
-    "section": "",
-    "text": "Thomas’ Calculus\nStewart’s Calculus\nLax & Terrell - Calculus and Multivariable Calculus with Applications\n\n\n\n\n\nLay, Lay, & McDonald - Linear Algebra and Its Applications\nTrefethen & Bau - Numerical Linear Algebra\nSheldon Axler - Linear Algebra Done Right\nFriedberg, Insel, Spence - Linear Algebra\n\n\n\n\n\nSteven Krantz – Real Analysis and Foundations\nWalter B. Rudin - Principles of Mathematical Analysis\nThomas Apostol - Mathematical Analysis\nLuigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - Introduction to Measure Theory and Integration\nDonald Cohn - Measure Theory\nVladimir I. Bogachev - Measure Theory, Vol. 1 and 2\nBogachev, Smolyanov - Real and Functional Analysis\nGerald B. Folland - Real Analysis: Modern Techniques and Their Applications\nHaïm Brezis - Functional Analysis, Sobolev Spaces and Partial Differential Equations\n\n\n\n\n\nJohn B. Fraleigh - A First Course in Abstract Algebra\nDummit & Foote - Abstract Algebra\n\n\n\n\n\nAnirban DasGupta - Fundamentals of Probability: A First Course\nGrimmett & Welsh - Probability: An Introduction\nGregory Lawler - Introduction to Stochastic Processes\nJames Norris - Markov Chains\n\n\n\n\n\nGrimmett & Stirzaker - Probability and Random Processes\nJean-François Le Gall - Measure Theory, Probability, and Stochastic Processes\nRick Durrett - Probability: Theory and Examples\nPatrick Billingsley - Probability and Measure\nRichard M. Dudley - Real Analysis and Probability\nOlav Kallenberg - Foundations of Modern Probability\n\n\n\n\n\nLevin, Peres, & Wilmer - Markov Chains and Mixing Times\n\n\n\n\n\nJean-François Le Gall - Brownian Motion, Martingales, and Stochastic Calculus\nMörters & Peres - Brownian Motion\nRevuz & Yor - Continuous Martingales and Brownian Motion\nKaratzas & Shreve - Brownian Motion and Stochastic Calculus\n\n\n\n\n\nPatrick Billingsley - Ergodic Theory and Information\nEinsiedler & Ward - Ergodic Theory, with a view towards Number Theory\n\n\n\n\n\nRoman Vershynin - High-Dimensional Probability: An Introduction with Applications to Data Science\nRamon van Handel - Lecture Notes for APC 550: Probability in High Dimension\n\n\n\n\n\nA.W. van der Vaart - Asymptotic Statistics\nMartin Wainwright - High-dimensional Statistics: A Non-asymptotic Viewpoint\n\n\n\n\n\nCover and Thomas - Elements of Information Theory\nPolyanskiy and Wu - Information Theory: from Coding to Learning\n\n\n\n\n\nThomas Ferguson - A Course in Game Theory\nKarlin & Peres - Game Theory, Alive"
+    "objectID": "posts/first-post.html#footnotes",
+    "href": "posts/first-post.html#footnotes",
+    "title": "First post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAll Chinese and Japanese names will respect the family name first order in all blogs.↩︎\nOnly perhaps, it has been quite a while since I did actual philosophy. Philosophy of mathematics is most likely be the only thing covered here↩︎"
   },
   {
-    "objectID": "writings/math_texts.html#probability-research-texts",
-    "href": "writings/math_texts.html#probability-research-texts",
-    "title": "Textbooks",
-    "section": "Probability Research Texts",
-    "text": "Probability Research Texts\n\nHigh-Dimensional Probability: an Introduction with Applications to Data Science (Roman Vershynin)\nAPC550 High-Dimensional Probability (Ramon van Handel)\nConcentration of Measure Phenomenon (Michel Ledoux)\nProbability in Banach Spaces (Michel Ledoux and Michel Talagrand)\nConcentration Inequalities: a Nonasymptotic Theory of Independence (Stéphane Boucheron, Gábor Lugosi, and Pascal Massart)\nConcentration Inequalities and Model Selection (Saint-Flour 2003, Pascal Massart)\nRandom Fields and Geometry (Robert Adler and Jonathan Taylor)\nSpectral Analysis of Large Dimensional Random Matrices (Zhidong Bai and Jack Silverstein)\nPercolation (Geoffrey Grimmett)\n50 Years of First-Passage Percolation (Antonio Auffinger, Michael Damron, and Jack Hanson)\nProceedings of Symposia in Applied Mathematics Vol.79: Random Growth Models (AMS Short Course January 2–3, 2017; edited by Michael Damron, Firas Rassoul-Agha, and Timo Seppäläinen)\nStatistical Mechanics of Lattice Systems: a Concrete Mathematical Introduction (Sacha Friedli and Yvan Velenik)\nA Course on Large Deviations with an Introduction to Gibbs Measures (GSM 162; Firas Rassoul-Agha and Timo Seppäläinen)\nAnalysis and Geometry of Markov Diffusion Operators (Dominique Bakry, Ivan Gentil, and Michel Ledoux)"
-  },
-  {
-    "objectID": "writings/teaching.html",
-    "href": "writings/teaching.html",
-    "title": "Teaching",
+    "objectID": "FMTP.html",
+    "href": "FMTP.html",
+    "title": "FMTP",
     "section": "",
-    "text": "Forthcoming"
+    "text": "Draft of From Measure to Probability: A survey of measure-theoretic results by a probabilist"
   },
   {
     "objectID": "research.html",
@@ -49,11 +42,39 @@
     "text": "Improved critical drift estimates for the frog model on trees\n\nElectronic Communications in Probability\ncode at fredcheng02/frog-model"
   },
   {
-    "objectID": "FMTP.html",
-    "href": "FMTP.html",
-    "title": "FMTP",
+    "objectID": "writings/teaching.html",
+    "href": "writings/teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Draft of From Measure to Probability: A survey of measure-theoretic results by a probabilist"
+    "text": "Forthcoming"
+  },
+  {
+    "objectID": "writings/math_texts.html",
+    "href": "writings/math_texts.html",
+    "title": "Textbooks",
+    "section": "",
+    "text": "Thomas’ Calculus\nStewart’s Calculus\nLax & Terrell - Calculus and Multivariable Calculus with Applications\n\n\n\n\n\nLay, Lay, & McDonald - Linear Algebra and Its Applications\nTrefethen & Bau - Numerical Linear Algebra\nSheldon Axler - Linear Algebra Done Right\nFriedberg, Insel, Spence - Linear Algebra\n\n\n\n\n\nSteven Krantz – Real Analysis and Foundations\nWalter B. Rudin - Principles of Mathematical Analysis\nThomas Apostol - Mathematical Analysis\nLuigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - Introduction to Measure Theory and Integration\nDonald Cohn - Measure Theory\nVladimir I. Bogachev - Measure Theory, Vol. 1 and 2\nBogachev, Smolyanov - Real and Functional Analysis\nGerald B. Folland - Real Analysis: Modern Techniques and Their Applications\nHaïm Brezis - Functional Analysis, Sobolev Spaces and Partial Differential Equations\nBarry Simon - A Comprehensive Course in Analysis, Part 1, 2a, 2b, 3, 4\n\n\n\n\n\nJohn B. Fraleigh - A First Course in Abstract Algebra\nDummit & Foote - Abstract Algebra\n\n\n\n\n\nAnirban DasGupta - Fundamentals of Probability: A First Course\nGrimmett & Welsh - Probability: An Introduction\nGregory Lawler - Introduction to Stochastic Processes\nJames Norris - Markov Chains\n\n\n\n\n\nGrimmett & Stirzaker - Probability and Random Processes\nJean-François Le Gall - Measure Theory, Probability, and Stochastic Processes\nRick Durrett - Probability: Theory and Examples\nPatrick Billingsley - Probability and Measure\nRichard M. Dudley - Real Analysis and Probability\nOlav Kallenberg - Foundations of Modern Probability\n\n\n\n\n\nLevin, Peres, & Wilmer - Markov Chains and Mixing Times\n\n\n\n\n\nJean-François Le Gall - Brownian Motion, Martingales, and Stochastic Calculus\nMörters & Peres - Brownian Motion\nRevuz & Yor - Continuous Martingales and Brownian Motion\nKaratzas & Shreve - Brownian Motion and Stochastic Calculus\n\n\n\n\n\nPatrick Billingsley - Ergodic Theory and Information\nEinsiedler & Ward - Ergodic Theory, with a view towards Number Theory\n\n\n\n\n\nRoman Vershynin - High-Dimensional Probability: An Introduction with Applications to Data Science\nRamon van Handel - Lecture Notes for APC 550: Probability in High Dimension\n\n\n\n\n\nA.W. van der Vaart - Asymptotic Statistics\nMartin Wainwright - High-dimensional Statistics: A Non-asymptotic Viewpoint\n\n\n\n\n\nCover and Thomas - Elements of Information Theory\nPolyanskiy and Wu - Information Theory: from Coding to Learning\n\n\n\n\n\nThomas Ferguson - A Course in Game Theory\nKarlin & Peres - Game Theory, Alive"
+  },
+  {
+    "objectID": "writings/math_texts.html#math-at-undergrad-and-grad-level",
+    "href": "writings/math_texts.html#math-at-undergrad-and-grad-level",
+    "title": "Textbooks",
+    "section": "",
+    "text": "Thomas’ Calculus\nStewart’s Calculus\nLax & Terrell - Calculus and Multivariable Calculus with Applications\n\n\n\n\n\nLay, Lay, & McDonald - Linear Algebra and Its Applications\nTrefethen & Bau - Numerical Linear Algebra\nSheldon Axler - Linear Algebra Done Right\nFriedberg, Insel, Spence - Linear Algebra\n\n\n\n\n\nSteven Krantz – Real Analysis and Foundations\nWalter B. Rudin - Principles of Mathematical Analysis\nThomas Apostol - Mathematical Analysis\nLuigi Ambrosio, Giuseppe Da Prato and Andrea Mennucci - Introduction to Measure Theory and Integration\nDonald Cohn - Measure Theory\nVladimir I. Bogachev - Measure Theory, Vol. 1 and 2\nBogachev, Smolyanov - Real and Functional Analysis\nGerald B. Folland - Real Analysis: Modern Techniques and Their Applications\nHaïm Brezis - Functional Analysis, Sobolev Spaces and Partial Differential Equations\nBarry Simon - A Comprehensive Course in Analysis, Part 1, 2a, 2b, 3, 4\n\n\n\n\n\nJohn B. Fraleigh - A First Course in Abstract Algebra\nDummit & Foote - Abstract Algebra\n\n\n\n\n\nAnirban DasGupta - Fundamentals of Probability: A First Course\nGrimmett & Welsh - Probability: An Introduction\nGregory Lawler - Introduction to Stochastic Processes\nJames Norris - Markov Chains\n\n\n\n\n\nGrimmett & Stirzaker - Probability and Random Processes\nJean-François Le Gall - Measure Theory, Probability, and Stochastic Processes\nRick Durrett - Probability: Theory and Examples\nPatrick Billingsley - Probability and Measure\nRichard M. Dudley - Real Analysis and Probability\nOlav Kallenberg - Foundations of Modern Probability\n\n\n\n\n\nLevin, Peres, & Wilmer - Markov Chains and Mixing Times\n\n\n\n\n\nJean-François Le Gall - Brownian Motion, Martingales, and Stochastic Calculus\nMörters & Peres - Brownian Motion\nRevuz & Yor - Continuous Martingales and Brownian Motion\nKaratzas & Shreve - Brownian Motion and Stochastic Calculus\n\n\n\n\n\nPatrick Billingsley - Ergodic Theory and Information\nEinsiedler & Ward - Ergodic Theory, with a view towards Number Theory\n\n\n\n\n\nRoman Vershynin - High-Dimensional Probability: An Introduction with Applications to Data Science\nRamon van Handel - Lecture Notes for APC 550: Probability in High Dimension\n\n\n\n\n\nA.W. van der Vaart - Asymptotic Statistics\nMartin Wainwright - High-dimensional Statistics: A Non-asymptotic Viewpoint\n\n\n\n\n\nCover and Thomas - Elements of Information Theory\nPolyanskiy and Wu - Information Theory: from Coding to Learning\n\n\n\n\n\nThomas Ferguson - A Course in Game Theory\nKarlin & Peres - Game Theory, Alive"
+  },
+  {
+    "objectID": "writings/math_texts.html#probability-research-texts",
+    "href": "writings/math_texts.html#probability-research-texts",
+    "title": "Textbooks",
+    "section": "Probability Research Texts",
+    "text": "Probability Research Texts\n\nAPC550 High-Dimensional Probability (Ramon van Handel)\nConcentration of Measure Phenomenon (Michel Ledoux)\nProbability in Banach Spaces (Michel Ledoux and Michel Talagrand)\nConcentration Inequalities: a Nonasymptotic Theory of Independence (Stéphane Boucheron, Gábor Lugosi, and Pascal Massart)\nConcentration Inequalities and Model Selection (Saint-Flour 2003, Pascal Massart)\nRandom Fields and Geometry (Robert Adler and Jonathan Taylor)\nSpectral Analysis of Large Dimensional Random Matrices (Zhidong Bai and Jack Silverstein)\nPercolation (Geoffrey Grimmett)\n50 Years of First-Passage Percolation (Antonio Auffinger, Michael Damron, and Jack Hanson)\nProceedings of Symposia in Applied Mathematics Vol.79: Random Growth Models (AMS Short Course January 2–3, 2017; edited by Michael Damron, Firas Rassoul-Agha, and Timo Seppäläinen)\nStatistical Mechanics of Lattice Systems: a Concrete Mathematical Introduction (Sacha Friedli and Yvan Velenik)\nA Course on Large Deviations with an Introduction to Gibbs Measures (GSM 162; Firas Rassoul-Agha and Timo Seppäläinen)\nAnalysis and Geometry of Markov Diffusion Operators (Dominique Bakry, Ivan Gentil, and Michel Ledoux)\nSpectral Analysis of Large Dimensional Random Matrices (Zhidong Bai, Jack Silverstein)"
+  },
+  {
+    "objectID": "writings/math_texts.html#alternative-proofs-of-well-known-results",
+    "href": "writings/math_texts.html#alternative-proofs-of-well-known-results",
+    "title": "Textbooks",
+    "section": "Alternative proofs of well-known results",
+    "text": "Alternative proofs of well-known results"
   },
   {
     "objectID": "index.html",
