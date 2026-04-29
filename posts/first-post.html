@@ -72,42 +72,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script async="" src="https://hypothes.is/embed.js"></script>
-<script>
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    document.body.classList.add('hypothesis-enabled');
-  });
-</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -207,7 +172,7 @@ window.Quarto = {
 <p>The website is recently created using <a href="https://quarto.org/">Quarto</a>. For two years I thought the only manageable way to build a website is through Jekyll.</p>
 <p>It came across my mind that there is a package <a href="https://yihui.org/bookdown/">Bookdown</a> by Xie Yihui<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> that I learned about when I was still an active statistics student using RStudio. Since this could potentially help me convert my <em>FMTP</em> to a webpage version, I started investigating while proctoring students’ exams. Naturally that led me to the newer Quarto, and hence the everything you see here.</p>
 <hr>
-<p>Regarding the future content of this blog, my current guess is that there is most likely going to be math, classical music, philosophy<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, and the golden-age Japanese animation. (Music and animation were also the subject of my writing on Chinese platforms.) Clearly this is not comprehensive, as I can see myself talking about audio conversion, music metadata, and <span class="math inline">\(\LaTeX\)</span>-based typesetting software already.</p>
+<p>Regarding the future content of this blog, my current guess is that there is most likely going to be math, classical music, philosophy<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, and the golden-age Japanese animation. (Music and animation were also the subject of my writing on Chinese platforms.) Clearly this is not comprehensive, as I can see myself talking about audio conversion, music metadata, and LaTeX-based typesetting software already.</p>
 <p>Stay tuned for future interesting content and I hope this will become a consistent motivation for me as well. The posts will be in English, but Chinese and Japanese will be quoted for technical terms.</p>
 
 
@@ -620,6 +585,8 @@ window.Quarto = {
     }
   });
   </script>
+<script src="https://utteranc.es/client.js" repo="blog_comments" issue-term="pathname" theme="github-light" crossorigin="anonymous" async="">
+</script>
 </div> <!-- /content -->
 
 
