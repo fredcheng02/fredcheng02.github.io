@@ -14,7 +14,7 @@ It came across my mind that there is a package [Bookdown](https://yihui.org/book
 
 ------------------------------------------------------------------------
 
-Regarding the future content of this blog, my current guess is that there is most likely going to be math, classical music, philosophy[^2], and the golden-age Japanese animation. (Music and animation were also the subject of my writing on Chinese platforms.) Clearly this is not comprehensive, as I can see myself talking about audio conversion, music metadata, and $\LaTeX$-based typesetting software already.
+Regarding the future content of this blog, my current guess is that there is most likely going to be math, classical music, philosophy[^2], and the golden-age Japanese animation. (Music and animation were also the subject of my writing on Chinese platforms.) Clearly this is not comprehensive, as I can see myself talking about audio conversion, music metadata, and LaTeX-based typesetting software already.
 
 [^2]: Only perhaps, it has been quite a while since I did actual philosophy. Philosophy of mathematics is most likely be the only thing covered here.
 

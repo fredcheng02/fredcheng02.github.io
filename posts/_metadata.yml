@@ -2,4 +2,5 @@
 freeze: true
 
 comments:
-  hypothesis: true
+    utterances:
+      repo: blog_comments
