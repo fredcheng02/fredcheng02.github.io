@@ -1,0 +1,21 @@
+---
+title: "First post"
+description: "Some plans for the blog"
+date: "4/28/2026"
+categories: 
+  - General
+---
+
+The website is recently created using [Quarto](https://quarto.org/). For two years I thought the only manageable way to build a website is through Jekyll.
+
+It came across my mind that there is a package [Bookdown](https://yihui.org/bookdown/) by Xie Yihui[^1] that I learned about when I was still an active statistics student using RStudio. Since this could potentially help me convert my *FMTP* to a webpage version, I started investigating while proctoring students' exams. Naturally that led me to the newer Quarto, and hence the everything you see here.
+
+[^1]: All Chinese and Japanese names will respect the family name first order in all posts.
+
+------------------------------------------------------------------------
+
+Regarding the future content of this blog, my current guess is that there is most likely going to be math, classical music, philosophy[^2], and the golden-age Japanese animation. (Music and animation were also the subject of my writing on Chinese platforms.) Clearly this is not comprehensive, as I can see myself talking about audio conversion, music metadata, and $\LaTeX$-based typesetting software already.
+
+[^2]: Only perhaps, it has been quite a while since I did actual philosophy. Philosophy of mathematics is most likely be the only thing covered here.
+
+Stay tuned for future interesting content and I hope this will become a consistent motivation for me as well. The posts will be in English, but Chinese and Japanese will be quoted for technical terms.

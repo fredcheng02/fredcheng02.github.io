@@ -1,0 +1,5 @@
+# freeze computational output
+freeze: true
+
+comments:
+  hypothesis: true
