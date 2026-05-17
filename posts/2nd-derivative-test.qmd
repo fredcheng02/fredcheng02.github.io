@@ -1,0 +1,27 @@
+---
+title: "Second derivative test"
+description: suitable for students taking multivariable calculus, better if students are taking/have taken linear algebra
+date: "4/28/2026"
+categories: 
+  - Math
+  - Calculus
+---
+
+\newcommand{\grad}{\nabla}
+\newcommand{\R}{\mathbf{R}}
+
+In the US Calculus sequence, the 2D second derivative test is often presented without too much intuition. Stewart's and Thomas' Calculus proved this result by explicitly computing the second directional derivative. Then the property of continuous functions and simple algebra simply justify the test. However, I do not believe that this is an explanatory proof; in fact I was very confused about this test altogether when I was taking this class in my first year. The student would never truly understand looking at the partial derivatives in the $x$-direction and the $y$-direction would already be sufficient to see the behavior of the function at the point considered.
+
+Even for me as a math student, ever since learning about the 2nd derivative test, I never had a second chance to truly understand it as an undergraduate. If I were an applied math student doing optimization (which I am not), I would certainly have relearned about this generally in $\mathbf{R}^n$ and used it constantly in my homework.
+
+This past experience certainly inspires me to write this post. The key takeaway should be that multivariable Calculus is fundamentally connected to linear algebra. In certain top universities[^1] in the US, I think these two classes are combined together, at least for advanced students.
+
+[^1]: I believe for example Cornell.
+
+------------------------------------------------------------------------
+
+Recall the single-variate derivative at a point is meant to be the linear approximation to the function at that point. In $n$-dimension this remains correct. However, for $f\colon \mathbf{R}^n \to \mathbf{R}$, the derivative becomes the vector-valued function $\nabla f\colon \mathbf{R}^n \to \mathbf{R}$.[^2]
+
+[^2]: It is noteworthy there are two different conventions for multivariate derivatives, known as the Hessian and the Jacobian convention. In fact a Calculus student will encounter both conventions in a Calculus sequence. The gradient is the Hessian version, while in the change of variables formula for multiple integrals, the Jacobian version is followed. Also these are the only two places where the determinant plays a significant role in undergraduate mathematics.
+
+The derivative
