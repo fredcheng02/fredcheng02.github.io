@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-04-28">
+<meta name="description" content="suitable for students taking multivariable calculus, better if students are taking/have taken linear algebra">
 
-<title>Blog – Feng Cheng</title>
+<title>Second derivative test – Feng Cheng</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +28,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1da6d6b92cb83a456ddd64b1e3150a9f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-1da6d6b92cb83a456ddd64b1e3150a9f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,35 +72,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
 <script>
-
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
+    document.body.classList.add('hypothesis-enabled');
   });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
+</script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -132,7 +109,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -142,7 +119,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Feng Cheng</span>
     </a>
   </div>
@@ -153,27 +130,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./FMTP.html"> 
+    <a class="nav-link" href="../FMTP.html"> 
 <span class="menu-text">FMTP</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writings/math_texts.html"> 
+    <a class="nav-link" href="../writings/math_texts.html"> 
 <span class="menu-text">Textbooks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writings/teaching.html"> 
+    <a class="nav-link" href="../writings/teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./links.html"> 
+    <a class="nav-link" href="../links.html"> 
 <span class="menu-text">Links</span></a>
   </li>  
 </ul>
@@ -188,22 +165,37 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Q2FsY3VsdXM=">Calculus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VuZXJhbA==">General <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWF0aA==">Math <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
-</div>
+<h1 class="title">Second derivative test</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Math</div>
+    <div class="quarto-category">Calculus</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    suitable for students taking multivariable calculus, better if students are taking/have taken linear algebra
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 28, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -213,93 +205,23 @@ window.Quarto = {
 </header>
 
 
+<p>In the US Calculus sequence, the 2D second derivative test is often presented without too much intuition. Stewart’s and Thomas’ Calculus proved this result by explicitly computing the second directional derivative. Then the property of continuous functions and simple algebra simply justify the test. However, I do not believe that this is an explanatory proof; in fact I was very confused about this test altogether when I was taking this class in my first year. The student would never truly understand looking at the partial derivatives in the <span class="math inline">\(x\)</span>-direction and the <span class="math inline">\(y\)</span>-direction would already be sufficient to see the behavior of the function at the point considered.</p>
+<p>Even for me as a math student, ever since learning about the 2nd derivative test, I never had a second chance to truly understand it as an undergraduate. If I were an applied math student doing optimization (which I am not), I would certainly have relearned about this generally in <span class="math inline">\(\mathbf{R}^n\)</span> and used it constantly in my homework.</p>
+<p>This past experience certainly inspires me to write this post. The key takeaway should be that multivariable Calculus is fundamentally connected to linear algebra. In certain top universities<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> in the US, I think these two classes are combined together, at least for advanced students.</p>
+<hr>
+<p>Recall the single-variate derivative at a point is meant to be the linear approximation to the function at that point. In <span class="math inline">\(n\)</span>-dimension this remains correct. However, for <span class="math inline">\(f\colon \mathbf{R}^n \to \mathbf{R}\)</span>, the derivative becomes the vector-valued function <span class="math inline">\(\nabla f\colon \mathbf{R}^n \to \mathbf{R}\)</span>.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<p>The derivative</p>
 
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1778914800000" data-listing-file-modified-sort="1778980685535" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
-<div class="thumbnail"><a href="./posts/condolences.html" class="no-external">
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/condolences.html" class="no-external">Condolences</a>
-</h3>
-<div class="delink listing-description"><a href="./posts/condolences.html" class="no-external">
-<p>to my student</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/condolences.html" class="no-external">
-<div class="listing-date">
-May 16, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="R2VuZXJhbA==" data-listing-date-sort="1777359600000" data-listing-file-modified-sort="1777438331116" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="220">
-<div class="thumbnail"><a href="./posts/first-post.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/first-post.html" class="no-external">First post</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('R2VuZXJhbA=='); return false;">General</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/first-post.html" class="no-external">
-<p>Some plans for the blog</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/first-post.html" class="no-external">
-<div class="listing-date">
-Apr 28, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="TWF0aCUyQ0NhbGN1bHVz" data-listing-date-sort="1777359600000" data-listing-file-modified-sort="1778978912820" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="324">
-<div class="thumbnail"><a href="./posts/unfinished_2nd-derivative-test.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/unfinished_2nd-derivative-test.html" class="no-external">Second derivative test</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWF0aA=='); return false;">Math</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q2FsY3VsdXM='); return false;">Calculus</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/unfinished_2nd-derivative-test.html" class="no-external">
-<p>suitable for students taking multivariable calculus, better if students are taking/have taken linear algebra</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/unfinished_2nd-derivative-test.html" class="no-external">
-<div class="listing-date">
-Apr 28, 2026
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<ol>
+<li id="fn1"><p>I believe for example Cornell.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>It is noteworthy there are two different conventions for multivariate derivatives, known as the Hessian and the Jacobian convention. In fact a Calculus student will encounter both conventions in a Calculus sequence. The gradient is the Hessian version, while in the change of variables formula for multiple integrals, the Jacobian version is followed. Also these are the only two places where the determinant plays a significant role in undergraduate mathematics.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -373,7 +295,7 @@ Apr 28, 2026
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/fredcheng02\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
