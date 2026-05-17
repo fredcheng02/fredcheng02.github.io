@@ -4,28 +4,35 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Condolences\n\n\nto my student\n\n\n\n\n\nMay 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\nGeneral\n\n\n\nSome plans for the blog\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nSecond derivative test\n\n\n\nMath\n\nCalculus\n\n\n\nsuitable for students taking multivariable calculus, better if students are taking/have taken linear algebra\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Condolences\n\n\nto my student\n\n\n\n\n\nMay 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\nGeneral\n\n\n\nSome plans for the blog\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Links",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "LyX\nSageMath documentation\nWolfram documentation\nzbMATH\nBlackwell’s\nprestomusic"
   },
   {
-    "objectID": "posts/unfinished_2nd-derivative-test.html",
-    "href": "posts/unfinished_2nd-derivative-test.html",
-    "title": "Second derivative test",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Feng Cheng",
     "section": "",
-    "text": "In the US Calculus sequence, the 2D second derivative test is often presented without too much intuition. Stewart’s and Thomas’ Calculus proved this result by explicitly computing the second directional derivative. Then the property of continuous functions and simple algebra simply justify the test. However, I do not believe that this is an explanatory proof; in fact I was very confused about this test altogether when I was taking this class in my first year. The student would never truly understand looking at the partial derivatives in the \\(x\\)-direction and the \\(y\\)-direction would already be sufficient to see the behavior of the function at the point considered.\nEven for me as a math student, ever since learning about the 2nd derivative test, I never had a second chance to truly understand it as an undergraduate. If I were an applied math student doing optimization (which I am not), I would certainly have relearned about this generally in \\(\\mathbf{R}^n\\) and used it constantly in my homework.\nThis past experience certainly inspires me to write this post. The key takeaway should be that multivariable Calculus is fundamentally connected to linear algebra. In certain top universities1 in the US, I think these two classes are combined together, at least for advanced students.\nRecall the single-variate derivative at a point is meant to be the linear approximation to the function at that point. In \\(n\\)-dimension this remains correct. However, for \\(f\\colon \\mathbf{R}^n \\to \\mathbf{R}\\), the derivative becomes the vector-valued function \\(\\nabla f\\colon \\mathbf{R}^n \\to \\mathbf{R}\\).2\nThe derivative"
+    "text": "fecheng at uw dot edu"
   },
   {
-    "objectID": "posts/unfinished_2nd-derivative-test.html#footnotes",
-    "href": "posts/unfinished_2nd-derivative-test.html#footnotes",
-    "title": "Second derivative test",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nI believe for example Cornell.↩︎\nIt is noteworthy there are two different conventions for multivariate derivatives, known as the Hessian and the Jacobian convention. In fact a Calculus student will encounter both conventions in a Calculus sequence. The gradient is the Hessian version, while in the change of variables formula for multiple integrals, the Jacobian version is followed. Also these are the only two places where the determinant plays a significant role in undergraduate mathematics.↩︎"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Feng Cheng",
+    "section": "Education",
+    "text": "Education\nUniversity of Washington, Ph.D. in Mathematics (September 2024 – present)\nUniversity of California, Berkeley, B.A. in Mathematics and in Statistics (August 2022 – May 2024)\nUniversity of California, Davis (September 2020 – June 2022)"
+  },
+  {
+    "objectID": "index.html#awards-scholarships",
+    "href": "index.html#awards-scholarships",
+    "title": "Feng Cheng",
+    "section": "Awards & Scholarships",
+    "text": "Awards & Scholarships\nLee McFarlan Fellowship Award (2024 – 2026)\nRobert Lewis Wasser Memorial Scholarship (2022)\nG. Thomas Sallee Prize (2021)"
   },
   {
     "objectID": "posts/condolences.html",
@@ -98,31 +105,24 @@
     "text": "Footnotes\n\n\nAll Chinese and Japanese names will respect the family name first order in all posts.↩︎\nOnly perhaps, it has been quite a while since I did actual philosophy. Philosophy of mathematics is most likely be the only thing covered here.↩︎"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Feng Cheng",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "fecheng at uw dot edu"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Feng Cheng",
-    "section": "Education",
-    "text": "Education\nUniversity of Washington, Ph.D. in Mathematics (September 2024 – present)\nUniversity of California, Berkeley, B.A. in Mathematics and in Statistics (August 2022 – May 2024)\nUniversity of California, Davis (September 2020 – June 2022)"
-  },
-  {
-    "objectID": "index.html#awards-scholarships",
-    "href": "index.html#awards-scholarships",
-    "title": "Feng Cheng",
-    "section": "Awards & Scholarships",
-    "text": "Awards & Scholarships\nLee McFarlan Fellowship Award (2024 – 2026)\nRobert Lewis Wasser Memorial Scholarship (2022)\nG. Thomas Sallee Prize (2021)"
-  },
-  {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Links",
+    "objectID": "in_progress_blog/2nd-derivative-test.html",
+    "href": "in_progress_blog/2nd-derivative-test.html",
+    "title": "Second derivative test",
     "section": "",
-    "text": "LyX\nSageMath documentation\nWolfram documentation\nzbMATH\nBlackwell’s\nprestomusic"
+    "text": "In the US Calculus sequence, the 2D second derivative test is often presented without too much intuition. Stewart’s and Thomas’ Calculus proved this result by explicitly computing the second directional derivative. Then the property of continuous functions and simple algebra simply justify the test. However, I do not believe that this is an explanatory proof; in fact I was very confused about this test altogether when I was taking this class in my first year. The student would never truly understand looking at the partial derivatives in the \\(x\\)-direction and the \\(y\\)-direction would already be sufficient to see the behavior of the function at the point considered.\nEven for me as a math student, ever since learning about the 2nd derivative test, I never had a second chance to truly understand it as an undergraduate. If I were an applied math student doing optimization (which I am not), I would certainly have relearned about this generally in \\(\\mathbf{R}^n\\) and used it constantly in my homework.\nThis past experience certainly inspires me to write this post. The key takeaway should be that multivariable Calculus is fundamentally connected to linear algebra. In certain top universities1 in the US, I think these two classes are combined together, at least for advanced students.\nRecall the single-variate derivative at a point is meant to be the linear approximation to the function at that point. In \\(n\\)-dimension this remains correct. However, for \\(f\\colon \\mathbf{R}^n \\to \\mathbf{R}\\), the derivative becomes the vector-valued function \\(\\nabla f\\colon \\mathbf{R}^n \\to \\mathbf{R}\\).2\nThe derivative"
+  },
+  {
+    "objectID": "in_progress_blog/2nd-derivative-test.html#footnotes",
+    "href": "in_progress_blog/2nd-derivative-test.html#footnotes",
+    "title": "Second derivative test",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI believe for example Cornell.↩︎\nIt is noteworthy there are two different conventions for multivariate derivatives, known as the Hessian and the Jacobian convention. In fact a Calculus student will encounter both conventions in a Calculus sequence. The gradient is the Hessian version, while in the change of variables formula for multiple integrals, the Jacobian version is followed. Also these are the only two places where the determinant plays a significant role in undergraduate mathematics.↩︎"
   }
 ]
