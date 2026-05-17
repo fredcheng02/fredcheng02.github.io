@@ -1,5 +1,6 @@
 ---
-title: "Condolences to my student"
+title: "Condolences"
+description: to my student
 date: "5/16/2026"
 ---
 
