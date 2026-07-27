@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/getmref.html",
       "/posts/condolences.html",
       "/posts/first-post.html"
     ]

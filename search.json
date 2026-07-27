@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Condolences\n\n\nto my student\n\n\n\n\n\nMay 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\nGeneral\n\n\n\nSome plans for the blog\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Convert all bib entries to the official entries at MathSciNet\n\n\n\nGeneral\n\nMath Technical Tools\n\n\n\n\n\n\n\n\n\nJul 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCondolences\n\n\nto my student\n\n\n\n\n\nMay 16, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFirst post\n\n\n\nGeneral\n\n\n\nSome plans for the blog\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "links.html",
@@ -42,27 +42,6 @@
     "text": "Two days ago, the name of the victim to the random stabbing was released online. Initially I was not too aware of the name; given that the university has so many students, it was very unlikely that I might know the victim. At least that was what I thought.\nBut after five minutes, this time looking at the photo and their full name carefully, I suddenly realized that she was definitely one of my Calculus students over the past two years. After scrolling through my personal record, I found that her handwritten signature was indeed on one attendance sheet. That was Fall 2024, my first quarter at UW, and I believe her first undergraduate quarter as well. Back then I was still a very inexperienced TA.\nI still have some memories of her being a bit quiet in my class in the middle of the classroom at MEB, sometimes with her hand on top of her head. A few times I was walking around the classroom, and stopped by asking if she had any questions, and I can still recall her voice when responding. I also remember her taking the final exam in the large hall at Kane in December; that was probably the last time I ever saw her. Now people are mourning for her at the statue before Kane.\nEverything just changed so fast, and I could not imagine a worse last minutes of one’s life. I genuinely hope that you, Juniper, can have eternal peace after all that suffering, and I feel genuinely sad that you have lost your precious life at such a young age."
   },
   {
-    "objectID": "FMTP.html",
-    "href": "FMTP.html",
-    "title": "FMTP",
-    "section": "",
-    "text": "Draft of From Measure to Probability: A survey of measure-theoretic results by a probabilist"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Improved critical drift estimates for the frog model on trees\n\nElectronic Communications in Probability\ncode at fredcheng02/frog-model"
-  },
-  {
-    "objectID": "writings/teaching.html",
-    "href": "writings/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Forthcoming"
-  },
-  {
     "objectID": "writings/math_texts.html",
     "href": "writings/math_texts.html",
     "title": "Textbooks",
@@ -89,6 +68,34 @@
     "title": "Textbooks",
     "section": "Alternative proofs of well-known results",
     "text": "Alternative proofs of well-known results"
+  },
+  {
+    "objectID": "writings/teaching.html",
+    "href": "writings/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Forthcoming"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Marchenko–Pastur law for tensor powers of exchangeable unconditional vectors\n\narXiv:2607.21759\nwith Dan Mikulincer\n\nImproved critical drift estimates for the frog model on trees\n\nElectronic Communications in Probability\ncode at fredcheng02/frog-model\ndone during the Polymath research program, led by Matthew Junge and Si Tang"
+  },
+  {
+    "objectID": "FMTP.html",
+    "href": "FMTP.html",
+    "title": "FMTP",
+    "section": "",
+    "text": "Draft of From Measure to Probability: A survey of measure-theoretic results by a probabilist"
+  },
+  {
+    "objectID": "posts/getmref.html",
+    "href": "posts/getmref.html",
+    "title": "Convert all bib entries to the official entries at MathSciNet",
+    "section": "",
+    "text": "In LaTeX, when converting all bibliography entries to the official entries at MathSciNet, the best way is to delete the MR numbers from all the bib entries, and then run getmref; see https://vtex-soft.github.io/getmref/ for details."
   },
   {
     "objectID": "posts/first-post.html",
