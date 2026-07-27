@@ -2,9 +2,16 @@
 title: "Research"
 format: html
 ---
+Marchenko--Pastur law for tensor powers of exchangeable unconditional vectors
+
+- [arXiv:2607.21759](https://arxiv.org/abs/2607.21759)
+
+- with [Dan Mikulincer](https://sites.math.washington.edu/~danmiku/)
 
 Improved critical drift estimates for the frog model on trees
 
 - [*Electronic Communications in Probability*](https://doi.org/10.1214/24-ECP606)
 
 - code at [fredcheng02/frog-model](https://github.com/fredcheng02/frog-model)
+
+- done during the [Polymath research program](https://geometrynyc.wixsite.com/polymathreu), led by [Matthew Junge](https://www.mathjunge.com/) and [Si Tang](https://www.lehigh.edu/~sit218/)
